@@ -116,6 +116,8 @@ set smartcase
 " Highlight search results
 set hlsearch
 
+set nu
+
 " Makes search act like search in modern browsers
 set incsearch 
 
